@@ -185,8 +185,8 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong>
   {% if online == "false" %}
-    Participants must bring a Windows laptop installed with the necessary software on. Please follow the instructions as provided to conform 
-	with the Reclamation software environment and the tools that will be utilized for the class. If your system has other versions of Python
+    Participants must bring a Windows laptop installed with the necessary software. Please follow the instructions as provided to conform 
+	with both the Reclamation software environment and the tools that will be utilized for the class. If your system has other versions of Python
 	(ie arcpy) please still install the version for the class to make sure all features are available.
   {% else %}
     Participants must have access to a computer with a
